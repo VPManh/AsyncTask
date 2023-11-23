@@ -83,7 +83,8 @@ public class MainActivity extends AppCompatActivity {
 //                URL url = new URL(strings[0]);
 //
 //                URLConnection urlConnection = url.openConnection();
-//
+
+//                lấy dữ liệu từ cái đường dẫn đó
 //                InputStream inputStream = urlConnection.getInputStream();
 //
 //                //đọc dữ vào
