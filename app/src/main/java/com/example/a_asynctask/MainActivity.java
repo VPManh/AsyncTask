@@ -76,7 +76,7 @@ public class MainActivity extends AppCompatActivity {
         @Override
         protected String doInBackground(String... strings) {
 
-            //chứa dữ liệu đọc được
+            //chứa dữ liệu đọc được (đổ dữ liệu vào)
             StringBuffer stringBuffer = new StringBuffer();
 
             try {
